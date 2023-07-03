@@ -1,19 +1,19 @@
 {
-  "name": "IceCream-shop",
+  "name": "IceCream_website",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kitsuneakvma.github.io/IceCream-shop",
+  "homepage": "https://MalgorzataMarczynska.github.io/IceCream_website",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /IceCream-shop"
+    "build": "parcel build src/*.html --public-url /IceCream_website"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/IceCream-shop.git"
   },
   "keywords": [],
-  "author": "Mateusz Martin",
+  "author": "Małgorzata Marczyńska",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/IceCream-shop/issues"
